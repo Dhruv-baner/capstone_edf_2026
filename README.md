@@ -1,11 +1,16 @@
 # Capstone Project 2025-2026
+---
 
+### **Basic Details**
 
 **Project Title:** Of Bytes and Watts: Regulatory Safeguards of Powering AI Infrastructure
 
 **Research Question:** Using network modelling of international energy trade and causal analysis of data centre regulation frameworks to inform policy insights that aim to manage data centre growth
 
-**Links**
+**Authored By:** Amara Jane Otero Salgado, Zaki Zainudin, Dhruv Banerjee 
+---
+
+### **Links**
 
 - [Final Report](https://github.com/Dhruv-baner/capstone_edf_2026/blob/main/report_edf_2026.pdf): The full report containing our literature review, methodology, and analysis (download to read)
 
@@ -17,7 +22,7 @@
 
 ---
 
-**Executive Summary**
+### **Executive Summary**
 
 Data centres are an increasingly critical part of the global economy. They play an essential
 role in powering Artificial Intelligence (AI) models, storing vast amounts of data, and providing solutions related to cloud computing. At the same time, they place an intensive demand
