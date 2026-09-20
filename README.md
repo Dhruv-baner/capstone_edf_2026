@@ -1,5 +1,4 @@
 # Capstone Project 2025-2026
----
 
 ### **Basic Details**
 
@@ -7,7 +6,8 @@
 
 **Research Question:** Using network modelling of international energy trade and causal analysis of data centre regulation frameworks to inform policy insights that aim to manage data centre growth
 
-**Authored By:** Amara Jane Otero Salgado, Zaki Zainudin, Dhruv Banerjee 
+**Authored By:** Amara Jane Otero Salgado, Zaki Zainudin, Dhruv Banerjee
+
 ---
 
 ### **Links**
