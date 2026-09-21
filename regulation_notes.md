@@ -50,3 +50,13 @@
 - Government estimates a 500 MW data centre could save around £80 million a year on electricity bills and connect to the grid five years sooner under the proposed reforms, with energy cost discounts from April 2027. The discount rationale is regional: where generation exceeds the grid's ability to move it, data centres siting in those areas receive commensurate discounts on electricity costs. 
 - On the grid side, the package manages speculative demand in the connections queue by prioritising credible developments, creates two new connection mechanisms, enables developers to build their own high-voltage infrastructure instead of waiting for network operators, and adds a Connections Accelerator Service.
 - The revised National Planning Policy Framework published on 17 August 2026 strengthens planning support for AI Growth Zones and data centres, requiring planning strategy to recognise data-driven industries and placing greater emphasis on the strategic electricity infrastructure needed to support them.
+
+### Recent and Upcoming Measures: 
+
+- **Second delegated regulation - EU sustainability rating scheme and label**. Draft registered 26 March 2026, consultation closed 23 April, revised draft published 2 July. It supplements the EED and amends Delegated Regulation 2024/1364. From 15 August 2027 annually, the European database generates an electronic label for every reporting data centre, grading PUE and WUE A–G with a REF breakdown. Still a draft as of late August 2026.
+  
+- **Data Centre Energy Efficiency Package**. Comprises a report on data centre energy efficiency, the rating scheme delegated act, and a public consultation on minimum performance standards for new and existing EU data centres. The rating covers energy efficiency, water efficiency, clean energy use, waste heat reuse and flexibility.
+  
+- **Minimum performance standards study (DG ENER)**. A Commission-contracted study supporting the development of minimum performance standards for European data centres, aligned with existing reporting requirements and the rating scheme.
+
+- **Cloud and AI Development Act (CADA)**. Proposed June 2026 in the Tech Sovereignty Package. Targets at least tripling EU data centre capacity within five to seven years and meeting EU business and public-administration needs by 2035, via site identification and simplified permitting for projects meeting sustainability and innovation criteria. Member States would designate acceleration areas; developers get a single point of information for permits. Adoption scheduled for end-2027.
